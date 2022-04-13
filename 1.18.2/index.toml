@@ -1,6 +1,154 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/citresewn.json"
+hash = "c0ea016e992b3093ebf05ecbb099361b0c11e8cc4dc53c81aa959b0a5fc42381"
+
+[[files]]
+file = "config/debugify.json"
+hash = "0e1ec8438f8d5979ff774559e5dfc9b7410e54624bb77e4f0e5a6371c01bff3c"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "8263049d3c7ac91b0301b26cb98e7ea561dc80980eb832f7aaa9587263b5bb03"
+
+[[files]]
+file = "config/inventory_control_tweaks.json"
+hash = "3b33bb93b8a348d39e8d7b7ba4cb1b6b9d76a05d8784c447c76d7fc0856c212f"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
+hash = "a020e7eae610eab35e9ce42bfb1e193a4b74d1d7d237ec32bbbb8227bf67e0f5"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "f5cf9edcc1c12a80298b0addcdd044acc2a758e4758ebd4aed50f4b0516e5eb1"
+
+[[files]]
+file = "config/inventoryprofilesnext/lockSlots-24.115.39.210.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/inventoryprofilesnext/lockSlots-building.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/inventoryprofilesnext/lockSlots-mc.jerl.me.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/inventoryprofilesnext/profiles-mc.jerl.me.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/litematica.json"
+hash = "88cf76cfe66d2464c26fbf747496b2fc64fbebfc281b2d15a4ba5924760ec9fa"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "836586de210032b9ea9a07b718f32a22993c5c5e427825be94cdd288b32b1e3a"
+
+[[files]]
+file = "config/puzzle.json"
+hash = "f767669d11b748c983cf3bf33a8778c2e70e2182a844e4ee1add13efabe6c2df"
+
+[[files]]
+file = "config/slightguimodifications/cts.groovy"
+hash = "1c63134f10780f78025a4f38b3827ff596293be8774c50a55169da2a405db2cf"
+
+[[files]]
+file = "config/tiefix.json"
+hash = "a97e4c7366346c470a705645fabe64bd3c859c646704652f297e28ead0025582"
+
+[[files]]
+file = "config/yosbr/config/bobby.conf"
+hash = "1245f76db2e27da52e233674cee4334618b75e0c7b745774c6ce84f5c4371bc8"
+
+[[files]]
+file = "config/yosbr/config/borderlessmining.json"
+hash = "67e294546dd7b0c9e0490574590273283da61a4363c68c9a4dcc86e4ba4b4195"
+
+[[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "94f7fc7719381bc6e474b6df30840d2aab0e8c4ed80d2f6191cf1b5b7d92be3f"
+
+[[files]]
+file = "config/yosbr/config/cem.conf"
+hash = "99ecb0cc231f75abd0e0cfb6ebcfae0fa407c1dab9956587c1792d45e715b6c7"
+
+[[files]]
+file = "config/yosbr/config/citresewn.json"
+hash = "c0ea016e992b3093ebf05ecbb099361b0c11e8cc4dc53c81aa959b0a5fc42381"
+
+[[files]]
+file = "config/yosbr/config/colormatic.properties"
+hash = "e0dfdbd6f39f1fc0a92b3fd18c981d20953e681f56eec736038f8940afa20d72"
+
+[[files]]
+file = "config/yosbr/config/cullleaves.json"
+hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
+
+[[files]]
+file = "config/yosbr/config/debugify.json"
+hash = "0e1ec8438f8d5979ff774559e5dfc9b7410e54624bb77e4f0e5a6371c01bff3c"
+
+[[files]]
+file = "config/yosbr/config/dynamicfps.toml"
+hash = "d755fffa95330f9083560f4a9f197c01bd18acccf5f262e506b4d80a4809e6bf"
+
+[[files]]
+file = "config/yosbr/config/entity_texture_features.json"
+hash = "1862a599276d8a8a4496d03b3fa5e4b8e2e058af1202f148368dca8b3d3a1717"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "05b7909baff3cd0087fe07937c86a7fede1a904ace562b8df5116eca50f1f1e4"
+
+[[files]]
+file = "config/yosbr/config/lambdabettergrass.toml"
+hash = "2744ebcd3589f1124ab556b12e3d73b878fe89901789fdf18787cca12e6a6c0b"
+
+[[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "58f198cf16e362debad3022b272a89dd7fb1f2b05b89bf73bf5925dd70f03691"
+
+[[files]]
+file = "config/yosbr/config/midnightlib.json"
+hash = "8bffacf0777bdc9e35022109e9580583d40fcaa05f0abfed1bf32220a5b39ab3"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "836586de210032b9ea9a07b718f32a22993c5c5e427825be94cdd288b32b1e3a"
+
+[[files]]
+file = "config/yosbr/config/puzzle.json"
+hash = "f767669d11b748c983cf3bf33a8778c2e70e2182a844e4ee1add13efabe6c2df"
+
+[[files]]
+file = "config/yosbr/config/slightguimodifications/config.json5"
+hash = "7da931e9b7389034de203f2719b99ab74ab8e500a898ad5d563d64f13c501120"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "ce1bdc73a838c3d8d892e7ee62a5399fe94b3e347ac40ca57895a6cabdfaa054"
+
+[[files]]
+file = "config/yosbr/config/tiefix.json"
+hash = "a97e4c7366346c470a705645fabe64bd3c859c646704652f297e28ead0025582"
+
+[[files]]
+file = "config/yosbr/config/zoomify.json"
+hash = "c9360b769c27a6bf08ddfd3a30254c6260c16d682e503c7f873c904819a7e13e"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "92ea493edaa709663bbe8c7b99654bfcb6a8e9de206f3701631094d80f2f5d15"
+
+[[files]]
 file = "mods/advancementinfo.toml"
 hash = "2a7fd6600075e0b6e5ee90e289f031f5822aa0c859e3b3fa1ed8c8a99ad51e80"
 metafile = true
