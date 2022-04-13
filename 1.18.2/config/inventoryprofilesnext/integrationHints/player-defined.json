@@ -1,1 +1,46 @@
-
+{
+    "net.minecraft.class_476": {
+        "buttonHints": {
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 30
+            },
+            "SORT": {
+                "horizontalOffset": 30
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 30
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 30
+            }
+        }
+    },
+    "net.minecraft.class_479": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -6,
+                "bottom": 5
+            },
+            "CONTINUOUS_CRAFTING": {
+                "horizontalOffset": -9,
+                "bottom": -6
+            }
+        }
+    },
+    "net.minecraft.class_495": {
+        "buttonHints": {
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 27
+            },
+            "SORT": {
+                "horizontalOffset": 27
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 27
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 27
+            }
+        }
+    }
+}
