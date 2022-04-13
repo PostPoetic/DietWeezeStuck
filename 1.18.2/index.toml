@@ -29,22 +29,6 @@ file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "f5cf9edcc1c12a80298b0addcdd044acc2a758e4758ebd4aed50f4b0516e5eb1"
 
 [[files]]
-file = "config/inventoryprofilesnext/lockSlots-24.115.39.210.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/inventoryprofilesnext/lockSlots-building.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/inventoryprofilesnext/lockSlots-mc.jerl.me.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/inventoryprofilesnext/profiles-mc.jerl.me.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/litematica.json"
 hash = "88cf76cfe66d2464c26fbf747496b2fc64fbebfc281b2d15a4ba5924760ec9fa"
 
@@ -295,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.toml"
-hash = "1db02540aab84103dd7618d8ed6ee3b4f3f70862c1a32e6729e01145021c5a13"
+hash = "bfba380da4e83918815b31bd57231a854d7bd95007d7e02c78f56c78725dea25"
 metafile = true
 
 [[files]]
