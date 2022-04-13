@@ -1,0 +1,13 @@
+name = "Vanilla+"
+author = "PostPoetic"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "df9598aaa1f3164064b240bbdb70163d893df0418c69fb71a609f64a9185fb14"
+
+[versions]
+fabric = "0.13.3"
+minecraft = "1.18.2"
