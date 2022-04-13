@@ -1,0 +1,32 @@
+{
+    "ModSettings": {
+        "sort_at_cursor": true,
+        "first_run": false
+    },
+    "GuiSettings": {
+        "continuous_crafting_saved_value": false
+    },
+    "LockedSlotsSettings": {
+        "locked_slots_delay_keeper_reinit_ticks": 100
+    },
+    "AutoRefillSettings": {
+        "ignore_locked_slots": false
+    },
+    "Hotkeys": {
+        "sort_inventory": {
+            "main": {
+                "keys": "BUTTON_3"
+            }
+        },
+        "sort_inventory_in_columns": {
+            "main": {
+                "keys": "LEFT_SHIFT,BUTTON_3"
+            }
+        },
+        "sort_inventory_in_rows": {
+            "main": {
+                "keys": "LEFT_CONTROL,BUTTON_3"
+            }
+        }
+    }
+}
