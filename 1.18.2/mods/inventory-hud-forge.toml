@@ -1,9 +1,9 @@
 name = "Inventory HUD+"
-filename = "InventoryHUD-fabric-%5b1.18%5d+-3.4.2.jar"
+filename = "InventoryHUD-fabric-[1.18]+-3.4.2.jar"
 side = "both"
 
 [download]
-url = "https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge/files/3545928"
+url = "https://edge.forgecdn.net/files/3545/928/InventoryHUD-fabric-%5B1.18%5D%20-3.4.2.jar"
 hash-format = "sha1"
 hash = "86b117c3c6978013468adbeb3f74e98328febda1"
 
