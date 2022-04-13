@@ -279,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.toml"
-hash = "eeb25c7cbffff2499756d15be49503f86db1a71beefbbfc6cb0e8dcbfc746422"
+hash = "e5a38cfbb0f6a3ac9a845f9ea263fb7c69cf4d3c78b80bcd0ad812556d6d69dd"
 metafile = true
 
 [[files]]
@@ -455,3 +455,4 @@ metafile = true
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
 hash = "bb2601ab37db4fd0303f1b17b18be271a34efafda5ecf43f36c5850b8eccb15f"
+metafile = true
