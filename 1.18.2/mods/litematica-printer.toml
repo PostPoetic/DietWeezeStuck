@@ -1,0 +1,11 @@
+name = "Litematica Printer"
+filename = "litematica-printer-1.18.2-2.3..jar"
+side = "both"
+
+[download]
+url = "https://github.com/aleksilassila/litematica-printer/releases/download/v2.3/litematica-printer-1.18.2-2.3.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "bf32fbbd2abf90587042b8bf8cf1bdc79b419575051b0567db1e69c7b5306a67"

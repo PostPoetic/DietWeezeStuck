@@ -1,0 +1,9 @@
+name = "Inspecio"
+filename = "inspecio-1.3.1+1.18.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Queerbric/Inspecio/releases/download/v1.3.1%2B1.18/inspecio-1.3.1+1.18.jar"
+hash-format = "sha1"
+hash = "7bd576e174ff5e7e21e9f6c25021c08ac68efe40"
+
