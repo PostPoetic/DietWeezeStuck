@@ -446,7 +446,3 @@ metafile = true
 file = "mods/zoomify.toml"
 hash = "213370c5103daf420baccbd5bfb9c022273fbf8d4e1b54625e0a3575217dd2ee"
 metafile = true
-
-[[files]]
-file = "pack.tomlss"
-hash = "1f841f606730297d7577605e585bd51cdaacfdf9b691111629689c705885adc2"
