@@ -110,7 +110,7 @@ hash = "836586de210032b9ea9a07b718f32a22993c5c5e427825be94cdd288b32b1e3a"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
-hash = "f767669d11b748c983cf3bf33a8778c2e70e2182a844e4ee1add13efabe6c2df"
+hash = "ec520a2039fa2e1a118d6d3d6fbaa9f8619568e1e4b29925c160f3673bbb4e9a"
 
 [[files]]
 file = "config/yosbr/config/slightguimodifications/config.json5"
