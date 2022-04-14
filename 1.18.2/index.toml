@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "5bd5fc7c494ab99ef8575c7d13e2605b4910035ad03531909c6de01675d75546"
+hash = "15afacb23b7ea8e1fa3ee5affd82fbeb443711d439de3d479ce22130bfa766a3"
 metafile = true
 
 [[files]]
@@ -323,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "e225ab80917fa453c5a02348f864075931a6c16fbb97b2c67393c5649ad7ea4d"
+hash = "00bb38ca1c64207e589978ad2437657a541fd2a0852ac52887987ef04581d2fd"
 metafile = true
 
 [[files]]
