@@ -41,10 +41,6 @@ file = "config/mousewheelie.hjson"
 hash = "0dadf713c671aee6fc4c7338059ead17b0963a60ace66d709e3fe08e0d92dba7"
 
 [[files]]
-file = "config/puzzle.json"
-hash = "ec520a2039fa2e1a118d6d3d6fbaa9f8619568e1e4b29925c160f3673bbb4e9a"
-
-[[files]]
 file = "config/tiefix.json"
 hash = "a97e4c7366346c470a705645fabe64bd3c859c646704652f297e28ead0025582"
 
@@ -101,16 +97,8 @@ file = "config/yosbr/config/lambdynlights.toml"
 hash = "58f198cf16e362debad3022b272a89dd7fb1f2b05b89bf73bf5925dd70f03691"
 
 [[files]]
-file = "config/yosbr/config/midnightlib.json"
-hash = "8bffacf0777bdc9e35022109e9580583d40fcaa05f0abfed1bf32220a5b39ab3"
-
-[[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "836586de210032b9ea9a07b718f32a22993c5c5e427825be94cdd288b32b1e3a"
-
-[[files]]
-file = "config/yosbr/config/puzzle.json"
-hash = "ec520a2039fa2e1a118d6d3d6fbaa9f8619568e1e4b29925c160f3673bbb4e9a"
 
 [[files]]
 file = "config/yosbr/config/slightguimodifications/config.json5"
@@ -333,11 +321,6 @@ hash = "fd88ab8b23121cea2b1c7d05f2b7cbbe76b93ced03d6b98f0b212521ccb0ecb2"
 metafile = true
 
 [[files]]
-file = "mods/midnightlib.toml"
-hash = "8cf8faa6b8d2e856a998cfd590f3ff330d088a0827e04af2643ef8e9577582fd"
-metafile = true
-
-[[files]]
 file = "mods/minihud.toml"
 hash = "ea0f5b02b0ec99b0defe4f9b0ca8d9270a75142bea88752beb1ba5045c7708ee"
 metafile = true
@@ -365,11 +348,6 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.toml"
 hash = "46acb2de4a49ecabca2387ea6f4312acf43db567043dfe1a64a37c13461d198e"
-metafile = true
-
-[[files]]
-file = "mods/puzzle.toml"
-hash = "26b1a2e1fdfc61594bfdf13e88c5edf9e42a1c68023098233f4cdfc215536867"
 metafile = true
 
 [[files]]
