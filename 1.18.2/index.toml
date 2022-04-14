@@ -33,6 +33,10 @@ file = "config/litematica.json"
 hash = "88cf76cfe66d2464c26fbf747496b2fc64fbebfc281b2d15a4ba5924760ec9fa"
 
 [[files]]
+file = "config/minihud.json"
+hash = "560c4028d880aa5757c8c6d4db70b213a692fb5de0715b69855abad113389c38"
+
+[[files]]
 file = "config/modmenu.json"
 hash = "836586de210032b9ea9a07b718f32a22993c5c5e427825be94cdd288b32b1e3a"
 
@@ -47,10 +51,6 @@ hash = "ec520a2039fa2e1a118d6d3d6fbaa9f8619568e1e4b29925c160f3673bbb4e9a"
 [[files]]
 file = "config/tiefix.json"
 hash = "a97e4c7366346c470a705645fabe64bd3c859c646704652f297e28ead0025582"
-
-[[files]]
-file = "config/yosbr/config/bobby.conf"
-hash = "1245f76db2e27da52e233674cee4334618b75e0c7b745774c6ce84f5c4371bc8"
 
 [[files]]
 file = "config/yosbr/config/borderlessmining.json"
@@ -105,6 +105,10 @@ file = "config/yosbr/config/midnightlib.json"
 hash = "8bffacf0777bdc9e35022109e9580583d40fcaa05f0abfed1bf32220a5b39ab3"
 
 [[files]]
+file = "config/yosbr/config/minihud.json"
+hash = "560c4028d880aa5757c8c6d4db70b213a692fb5de0715b69855abad113389c38"
+
+[[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "836586de210032b9ea9a07b718f32a22993c5c5e427825be94cdd288b32b1e3a"
 
@@ -130,7 +134,7 @@ hash = "c9360b769c27a6bf08ddfd3a30254c6260c16d682e503c7f873c904819a7e13e"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "92ea493edaa709663bbe8c7b99654bfcb6a8e9de206f3701631094d80f2f5d15"
+hash = "56a6d0c3893d30741847bf61bc684caaa326e1bb5f7bbadaf18216b8914c853a"
 
 [[files]]
 file = "mods/advancementinfo.toml"
