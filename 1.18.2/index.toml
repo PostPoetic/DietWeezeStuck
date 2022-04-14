@@ -273,11 +273,6 @@ hash = "69d17da8431a798a73f8e238e9114ff96089449706a699c1f69e4561bbc0055c"
 metafile = true
 
 [[files]]
-file = "mods/inspecio.toml"
-hash = "542bdcac0e5086642068a690203d6e3f5d3b4ba1239de01c52025c687a4b362d"
-metafile = true
-
-[[files]]
 file = "mods/inventory-hud-forge.toml"
 hash = "e5a38cfbb0f6a3ac9a845f9ea263fb7c69cf4d3c78b80bcd0ad812556d6d69dd"
 metafile = true
@@ -451,7 +446,3 @@ metafile = true
 file = "mods/zoomify.toml"
 hash = "213370c5103daf420baccbd5bfb9c022273fbf8d4e1b54625e0a3575217dd2ee"
 metafile = true
-
-[[files]]
-file = "resourcepacks/Mod Menu Helper.zip"
-hash = "bb2601ab37db4fd0303f1b17b18be271a34efafda5ecf43f36c5850b8eccb15f"
