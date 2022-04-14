@@ -455,7 +455,3 @@ metafile = true
 file = "mods/zoomify.toml"
 hash = "213370c5103daf420baccbd5bfb9c022273fbf8d4e1b54625e0a3575217dd2ee"
 metafile = true
-
-[[files]]
-file = "shaderpacks/ComplementaryShaders.toml"
-hash = "15d53de9b2c883602d167bf09e1e24ed7a83e703bf4fa5cfc7ee2d6ee86a467d"
