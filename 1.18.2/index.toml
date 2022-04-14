@@ -13,18 +13,6 @@ file = "config/fabric_loader_dependencies.json"
 hash = "8263049d3c7ac91b0301b26cb98e7ea561dc80980eb832f7aaa9587263b5bb03"
 
 [[files]]
-file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
-hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
-
-[[files]]
-file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
-hash = "a020e7eae610eab35e9ce42bfb1e193a4b74d1d7d237ec32bbbb8227bf67e0f5"
-
-[[files]]
-file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "f5cf9edcc1c12a80298b0addcdd044acc2a758e4758ebd4aed50f4b0516e5eb1"
-
-[[files]]
 file = "config/litematica.json"
 hash = "88cf76cfe66d2464c26fbf747496b2fc64fbebfc281b2d15a4ba5924760ec9fa"
 
@@ -79,6 +67,22 @@ hash = "1862a599276d8a8a4496d03b3fa5e4b8e2e058af1202f148368dca8b3d3a1717"
 [[files]]
 file = "config/yosbr/config/inventory_control_tweaks.json"
 hash = "3b33bb93b8a348d39e8d7b7ba4cb1b6b9d76a05d8784c447c76d7fc0856c212f"
+
+[[files]]
+file = "config/yosbr/config/inventoryhud.json"
+hash = "1630db9f0da70cda12ec6a53f2547665a77553fadf58b4c2ffa64cd640085ba2"
+
+[[files]]
+file = "config/yosbr/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/yosbr/config/inventoryprofilesnext/integrationHints/player-defined.json"
+hash = "a020e7eae610eab35e9ce42bfb1e193a4b74d1d7d237ec32bbbb8227bf67e0f5"
+
+[[files]]
+file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "f5cf9edcc1c12a80298b0addcdd044acc2a758e4758ebd4aed50f4b0516e5eb1"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
