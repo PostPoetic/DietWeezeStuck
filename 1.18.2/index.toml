@@ -42,7 +42,7 @@ hash = "0dadf713c671aee6fc4c7338059ead17b0963a60ace66d709e3fe08e0d92dba7"
 
 [[files]]
 file = "config/puzzle.json"
-hash = "ec520a2039fa2e1a118d6d3d6fbaa9f8619568e1e4b29925c160f3673bbb4e9a"
+hash = "c67943de9045bf9bd885f52c6365f596ea1d63c562a99d7c26077b5944d14ec9"
 
 [[files]]
 file = "config/tiefix.json"
