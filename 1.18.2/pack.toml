@@ -1,6 +1,6 @@
 name = "DietWeezeStuck"
 author = "PostPoetic"
-version = "1.2.1"
+version = "1.2.0"
 pack-format = "packwiz:1.0.0"
 
 [index]
