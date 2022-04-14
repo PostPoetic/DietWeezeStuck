@@ -14,7 +14,7 @@
   "checkUpdates": false,
   "showPuzzleInfo": false,
   "resourcepackSplashScreen": true,
-  "disableSplashScreenBlend": true,
+  "disableSplashScreenBlend": false,
   "emissiveTextures": false,
   "unlimitedRotations": true,
   "biggerModels": true,
