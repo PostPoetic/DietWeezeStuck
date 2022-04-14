@@ -352,6 +352,11 @@ hash = "2c70ac84c0b9feb5c5d42543be5612770da38debac874f48cebb5e0433afba89"
 metafile = true
 
 [[files]]
+file = "mods/more-chat-history.toml"
+hash = "6e491af660315658150add9c80d9ba6936563e6f55c45ee0aad5bdb0737e6fa8"
+metafile = true
+
+[[files]]
 file = "mods/mouse-wheelie.toml"
 hash = "0ef46300ba717d679eaec91b03edac50e5a2881f7c8526eac6e475ee9f86ae50"
 metafile = true
