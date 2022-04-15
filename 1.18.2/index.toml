@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "f7b6fff3b0f2260f4bb3c6971a3c15e48ec2fcd449658a3c44b8a011580e230c"
+hash = "fdc45d4349a68455d6ee0454dbfb2ef3eb27f695dea54a99f58b463c84229aa4"
 metafile = true
 
 [[files]]
@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "2c283319aebf853500c3057142e54ce91ae50170a161de46489a266f57f46f63"
+hash = "01175385fc41a95afdfe7c988c697be564bd94aabb684b764b411c700bee81dc"
 metafile = true
 
 [[files]]
@@ -368,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "ac843deb7ea5718a1c736ce5e684e3bdb974dc398963d98edddcdf2a203e04ba"
+hash = "2c4f0a654ca70e630890aaea871a1ec3d6255dcc2bf4c7853da93dd234ad95cd"
 metafile = true
 
 [[files]]
