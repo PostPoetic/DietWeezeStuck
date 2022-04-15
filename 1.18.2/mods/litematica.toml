@@ -16,4 +16,4 @@ project-id = 308892
 [option]
 optional = true
 default = true
-description = "Gives the ability to create and import minecraft builds in the form of schematic files that can be displayed in the world as a sort of blueprint. Highly customizable with a ton of features worth exploring if you want to build the same thing repeatedly or want to import a blueprint from creative into survival."
+description = "Gives the ability to create and import minecraft builds in the form of schematic files that can be displayed in the world as a sort of blueprint. Highly customizable with a ton of features worth exploring if you want to build the same thing repeatedly or want to import a blueprint from creative into survival. YOU NEED TO TURN SHADERS OFF TO SEE THE PLACED SCHEMATIC, OTHERWISE IT WON'T RENDER CORRECTLY"
