@@ -134,7 +134,7 @@ hash = "c9360b769c27a6bf08ddfd3a30254c6260c16d682e503c7f873c904819a7e13e"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "56a6d0c3893d30741847bf61bc684caaa326e1bb5f7bbadaf18216b8914c853a"
+hash = "08011c65b1da060a39d5b60c72bf83c18dd1ca191749e3790b6b978880b019cb"
 
 [[files]]
 file = "mods/advancementinfo.toml"

@@ -1,12 +1,12 @@
 name = "DietWeezeStuck"
 author = "PostPoetic"
-version = "1.2.2"
+version = "1.2.3"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a67362c534852af76d98511c467e690b5bfc1c45e0e89834d08bffc6a820b347"
+hash = "b80fa1595665a3211307aac48e19beb6620f5998d511c4ecf325230abe614a31"
 
 [versions]
 fabric = "0.13.3"
