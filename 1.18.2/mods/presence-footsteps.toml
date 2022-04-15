@@ -11,3 +11,9 @@ hash = "fc13b79c51f1afa9cdc455d3c74d52bae1e02cf1"
 [update.curseforge]
 file-id = 3671978
 project-id = 334259
+
+
+[option]
+optional = true
+default = true
+description = "Adds different sound effects for footsteps depending on the surface walked on. Has different options for volume and amount of legs."

@@ -11,3 +11,9 @@ hash = "8d3faf150dd06a5955a9f81637871716a983d4b3"
 [update.curseforge]
 file-id = 3751645
 project-id = 308892
+
+
+[option]
+optional = true
+default = true
+description = "Gives the ability to create and import minecraft builds in the form of schematic files that can be displayed in the world as a sort of blueprint. Highly customizable with a ton of features worth exploring if you want to build the same thing repeatedly or want to import a blueprint from creative into survival."

@@ -11,3 +11,8 @@ hash = "86b117c3c6978013468adbeb3f74e98328febda1"
 [update.curseforge]
 file-id = 3545928
 project-id = 357540
+
+[option]
+optional = true
+default = true
+description = "Adds toggleable HUD elements displaying currently worn armor and tool durability, potion effects and inventory contents."

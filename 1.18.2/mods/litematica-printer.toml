@@ -9,3 +9,9 @@ url = "https://github.com/aleksilassila/litematica-printer/releases/download/v2.
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
 hash-format = "sha256"
 hash = "bf32fbbd2abf90587042b8bf8cf1bdc79b419575051b0567db1e69c7b5306a67"
+
+
+[option]
+optional = true
+default = true
+description = "Optional addon for Litematica that adds a hotkey to 'print' a schematic by automatically placing the needed blocks around you if in your inventory. LITEMATICA IS REQUIRED IF YOU USE THIS."

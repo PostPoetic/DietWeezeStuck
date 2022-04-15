@@ -11,3 +11,9 @@ hash = "907b796056918621181fa41124a86d5fdf734809"
 [update.curseforge]
 file-id = 3694890
 project-id = 478669
+
+
+[option]
+optional = true
+default = true
+description = "Adds the option to quickbind certain actions both vanilla and modded to a hotkey menu that can be opened with the press of a single button."

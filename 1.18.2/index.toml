@@ -278,12 +278,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.toml"
-hash = "e5a38cfbb0f6a3ac9a845f9ea263fb7c69cf4d3c78b80bcd0ad812556d6d69dd"
+hash = "8f623b6a34fefd0659ba1efccef21b87f411393b82c5a5c05e3f07fd10588893"
 metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "92aefdfd457c3c13e5a583ed697289b0d84e0304e7af2a20c16e16813534efbb"
+hash = "02660330be301a91ebaf5aaec3e0d8b79caac2f3fd6909052b87076ba0624b54"
 metafile = true
 
 [[files]]
@@ -318,12 +318,12 @@ metafile = true
 
 [[files]]
 file = "mods/litematica-printer.toml"
-hash = "0c1338b2a5d8b1b493d93486ce1ce89e62a6cc5cfee9c56c06da4aa2fbddfbcf"
+hash = "95fbbf353642342562eb0a44424ea8f5ae0be0b71afd7de0ab261895f002551d"
 metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "00bb38ca1c64207e589978ad2437657a541fd2a0852ac52887987ef04581d2fd"
+hash = "e3b2fc284d4c980ad37fc760282e79ae068fea2ac7cde5523dfb47624bb6d4ac"
 metafile = true
 
 [[files]]
@@ -358,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.toml"
-hash = "0ef46300ba717d679eaec91b03edac50e5a2881f7c8526eac6e475ee9f86ae50"
+hash = "e108ad6a5a90fb9b99cdc5a1960ee326fd1ab3a8f0f408d982bbb5e2c0c3e184"
 metafile = true
 
 [[files]]
@@ -373,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.toml"
-hash = "46acb2de4a49ecabca2387ea6f4312acf43db567043dfe1a64a37c13461d198e"
+hash = "bc75051e721747123edd97c55bc924ac846795db2fcbaea01d2d46a3d3802234"
 metafile = true
 
 [[files]]
@@ -383,7 +383,7 @@ metafile = true
 
 [[files]]
 file = "mods/quickbind.toml"
-hash = "ef9f060816f65dd00569c11dc9bbbc5c823ecf61eeb98a4b5528e0dde66cea94"
+hash = "b9e9f34d346e46b394d6e6d7c50bbf9eb0a6b88a57f5f02b997fa8d51659a412"
 metafile = true
 
 [[files]]
@@ -438,12 +438,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "9135e6392522a9350e545240807e2a057ddd8d058342cb4edaa2989ac40d7347"
+hash = "055e6c154380dbd41f97045a62b6b8f5238dd5d3e9d11070f6e66b9651a276ff"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "22fd3b5bb49bbfb913c9190ebf2e9c595384a4e99e0e1e020a0b90295032e87b"
+hash = "d690a9983c3470882a9082ec425ee3eb228ff5137f971ee07317f72457bf0738"
 metafile = true
 
 [[files]]

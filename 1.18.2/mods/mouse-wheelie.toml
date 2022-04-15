@@ -11,3 +11,9 @@ hash = "1f017c632284c23629f41a24130e47f4fa66353f"
 [update.curseforge]
 file-id = 3717990
 project-id = 317514
+
+
+[option]
+optional = true
+default = true
+description = "Adds the ability to hover over items and use the scroll wheel to transfer them between different inventories and containers. Also has an inventory sorting functionality that is disabled by default due to Inventory Profiles next possessing the same function."

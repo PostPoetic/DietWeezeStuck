@@ -11,3 +11,9 @@ hash = "cbeb84d1b80812d7cbdfa283490bfc1f4549069a"
 [update.curseforge]
 file-id = 3679959
 project-id = 495267
+
+
+[option]
+optional = true
+default = true
+description = "Gives the option of 'locking' certain inventory slots to prevent important items from being accidentally dropped, can replace equipment that is about to break, sort your inventory and much more. Highly customizable."

@@ -11,3 +11,9 @@ hash = "0f80a815c1025faa336f7fd2a924f0f655a0d577"
 [update.curseforge]
 file-id = 3738198
 project-id = 263420
+
+
+[option]
+optional = true
+default = true
+description = "Adds a minimap to your hud. Highly customizable. Has waypoint functionality."
