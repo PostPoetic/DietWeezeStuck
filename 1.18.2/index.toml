@@ -167,6 +167,11 @@ hash = "85f3ba11c05d688f772f04f226eb010bc4d667b7da987182e15aca89a578f3c9"
 metafile = true
 
 [[files]]
+file = "mods/biome-particle-weather.toml"
+hash = "e585a950effb74c11ee96a9311da98185201b7b24a95f31490d5d377f385d968"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.toml"
 hash = "cfc25775ef2e2dec224cd7328b7174e271c28fc610841355d97f2fc6e3723a31"
 metafile = true
