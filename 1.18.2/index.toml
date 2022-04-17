@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-particle-weather.toml"
-hash = "775b6d1432b15ba2a15cf93d6640f9fa6e494b0c3d4d92998fc3dc3f1585513e"
+hash = "e585a950effb74c11ee96a9311da98185201b7b24a95f31490d5d377f385d968"
 metafile = true
 
 [[files]]
