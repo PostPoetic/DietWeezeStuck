@@ -15,4 +15,4 @@ project-id = 575109
 [option]
 optional = true
 default = true
-description = "Adds different particle effects depending on weather and biome. If using Complementary Shaders turn on 'Compatibility mode' and 'do waving in compatibility mode' in Complementary shader settings."
+description = "Adds different particle effects depending on weather and biome. If using Complementary Shaders turn on 'Compatibility mode' and 'do waving in compatibility mode' in shader settings."
