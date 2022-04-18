@@ -1,19 +1,18 @@
 name = "Xaero's Minimap"
-filename = "Xaeros_Minimap_22.5.0_Fabric_1.18.2.jar"
+filename = "Xaeros_Minimap_22.6.0_Fabric_1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3738/198/Xaeros_Minimap_22.5.0_Fabric_1.18.2.jar"
+url = "https://edge.forgecdn.net/files/3756/658/Xaeros_Minimap_22.6.0_Fabric_1.18.2.jar"
 hash-format = "sha1"
-hash = "0f80a815c1025faa336f7fd2a924f0f655a0d577"
+hash = "75d99668efff63bdcfc25109a61cc9066a4f2a6e"
 
 [update]
 [update.curseforge]
-file-id = 3738198
+file-id = 3756658
 project-id = 263420
-
 
 [option]
 optional = true
-default = true
 description = "Adds a minimap to your hud. Highly customizable. Has waypoint functionality."
+default = true

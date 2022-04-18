@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "fdc45d4349a68455d6ee0454dbfb2ef3eb27f695dea54a99f58b463c84229aa4"
+hash = "881b5a462da325f7d506150314c57b4ab2a1cfb9357de86ea102b1fab32f9c41"
 metafile = true
 
 [[files]]
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/borderless-mining.toml"
-hash = "cfc25775ef2e2dec224cd7328b7174e271c28fc610841355d97f2fc6e3723a31"
+hash = "29617ba69cf27f8892a63fa113386a0d86a43600a0b6c5f382e1c4212a9faafc"
 metafile = true
 
 [[files]]
@@ -248,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "b9598f1fae8ca026d737768ef3812f157c568ba86f2f780704ddb995fdec3502"
+hash = "fd6b05c2a3731c93d5dccf2c073135f2f12008f7a77325b49b79522a98fa52c3"
 metafile = true
 
 [[files]]
@@ -438,7 +438,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "055e6c154380dbd41f97045a62b6b8f5238dd5d3e9d11070f6e66b9651a276ff"
+hash = "94e48fd814d5dd73f50caa823e9312219adff7d00a4f20e5a2f5c8d51387c143"
 metafile = true
 
 [[files]]
