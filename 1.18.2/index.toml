@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "881b5a462da325f7d506150314c57b4ab2a1cfb9357de86ea102b1fab32f9c41"
+hash = "9458f2379e1a68cb81337b694da4ff1d76344cc5c87a49fbc6880cef61c76187"
 metafile = true
 
 [[files]]
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "15afacb23b7ea8e1fa3ee5affd82fbeb443711d439de3d479ce22130bfa766a3"
+hash = "1711a3edd9fe30d7058018f484240f9ed2810ec5fe172df25c7321083df24243"
 metafile = true
 
 [[files]]
@@ -368,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "2c4f0a654ca70e630890aaea871a1ec3d6255dcc2bf4c7853da93dd234ad95cd"
+hash = "3b8c2cec272a08fce467e51a52e9125d070dcdc1fc4ffc0bf7cf9b0b23e2a319"
 metafile = true
 
 [[files]]
