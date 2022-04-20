@@ -1,13 +1,13 @@
 name = "Debugify"
-filename = "debugify-1.8.1-fabric-1.18.2.jar"
+filename = "debugify-1.9.0-fabric-1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3758/660/debugify-1.8.1-fabric-1.18.2.jar"
+url = "https://edge.forgecdn.net/files/3759/425/debugify-1.9.0-fabric-1.18.2.jar"
 hash-format = "sha1"
-hash = "c6d3af2924a66ec773fdd954d9b25a8ce6b1290c"
+hash = "8bc0a0baa76712718ab5334dcbef2a92dad3438b"
 
 [update]
 [update.curseforge]
-file-id = 3758660
+file-id = 3759425
 project-id = 596224
