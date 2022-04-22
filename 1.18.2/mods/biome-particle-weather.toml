@@ -15,4 +15,4 @@ project-id = 575109
 [option]
 optional = true
 default = true
-description = "Adds different particle effects depending on weather and biome, customizable."
+description = "Adds different particle effects depending on weather and biome, customizable. If experiencing issues with particles while using shaders enable compatibility mode in the shader options."

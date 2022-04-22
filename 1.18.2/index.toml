@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-particle-weather.toml"
-hash = "a857766e619bd1fe47f76b48b05be78370fa29a35ee526800df9385dad4591ba"
+hash = "3bcac29907c1306fad014887efa080c966c66693178d59d7b63b74bd0e14c69c"
 metafile = true
 
 [[files]]
@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/mambience.toml"
-hash = "b32cf4801b956c034bad617934146593847be5006e788f08a8e69796bfeb8187"
+hash = "61142a72b522df4c967e501be42b938f2094e43acaf1511eca5013e6ae5ac937"
 metafile = true
 
 [[files]]

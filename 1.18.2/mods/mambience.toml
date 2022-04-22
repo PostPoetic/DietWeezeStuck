@@ -12,7 +12,6 @@ hash = "6bef5bc4177bcb927e2b431dd4b10a405ba1d6e9"
 file-id = 3667763
 project-id = 317590
 
-
 [option]
 optional = true
 default = true
