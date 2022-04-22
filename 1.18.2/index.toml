@@ -17,6 +17,10 @@ file = "config/litematica.json"
 hash = "88cf76cfe66d2464c26fbf747496b2fc64fbebfc281b2d15a4ba5924760ec9fa"
 
 [[files]]
+file = "config/mambience/config.json"
+hash = "8f44726a4a6669515e0a623d100c2d50283423d8244d865343f64f11367281d0"
+
+[[files]]
 file = "config/modmenu.json"
 hash = "836586de210032b9ea9a07b718f32a22993c5c5e427825be94cdd288b32b1e3a"
 
@@ -65,6 +69,10 @@ file = "config/yosbr/config/entity_texture_features.json"
 hash = "1862a599276d8a8a4496d03b3fa5e4b8e2e058af1202f148368dca8b3d3a1717"
 
 [[files]]
+file = "config/yosbr/config/impactfulweather.json"
+hash = "fa9163caa7a57bcafd52188e0d17fd6c0d5bde170c9cab3e32e9d780d89f5dcd"
+
+[[files]]
 file = "config/yosbr/config/inventory_control_tweaks.json"
 hash = "3b33bb93b8a348d39e8d7b7ba4cb1b6b9d76a05d8784c447c76d7fc0856c212f"
 
@@ -95,6 +103,10 @@ hash = "2744ebcd3589f1124ab556b12e3d73b878fe89901789fdf18787cca12e6a6c0b"
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
 hash = "58f198cf16e362debad3022b272a89dd7fb1f2b05b89bf73bf5925dd70f03691"
+
+[[files]]
+file = "config/yosbr/config/mambience/config.json"
+hash = "8f44726a4a6669515e0a623d100c2d50283423d8244d865343f64f11367281d0"
 
 [[files]]
 file = "config/yosbr/config/midnightlib.json"
@@ -164,6 +176,11 @@ metafile = true
 [[files]]
 file = "mods/better-mount-hud.toml"
 hash = "85f3ba11c05d688f772f04f226eb010bc4d667b7da987182e15aca89a578f3c9"
+metafile = true
+
+[[files]]
+file = "mods/biome-particle-weather.toml"
+hash = "a857766e619bd1fe47f76b48b05be78370fa29a35ee526800df9385dad4591ba"
 metafile = true
 
 [[files]]
@@ -337,6 +354,11 @@ hash = "fd88ab8b23121cea2b1c7d05f2b7cbbe76b93ced03d6b98f0b212521ccb0ecb2"
 metafile = true
 
 [[files]]
+file = "mods/mambience.toml"
+hash = "b32cf4801b956c034bad617934146593847be5006e788f08a8e69796bfeb8187"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.toml"
 hash = "8cf8faa6b8d2e856a998cfd590f3ff330d088a0827e04af2643ef8e9577582fd"
 metafile = true
@@ -419,6 +441,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.toml"
 hash = "629cba9c7cd4bfbb4f5be04e7d2ebfb71ef1c44466c7a1614b9c31b78b97f7a1"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.toml"
+hash = "c3d6b40910e14fde9974148ffe74c7226c06e5030539c0f26fec8f68617f3b44"
 metafile = true
 
 [[files]]
