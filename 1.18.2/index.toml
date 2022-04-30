@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/completeconfig.toml"
-hash = "3dc8afb222b72064fe76daa8f09d159f95f6d96cbfa9fe246b9d5ae87ae084ae"
+hash = "ac4ef5d0e3ee33ed06232cf813b710f2f39e38718ff064fd7f7853080c53a526"
 metafile = true
 
 [[files]]
@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.toml"
-hash = "68ea151b3a2b580cc1c8378ce58970e4375fe09b41c42db39b802f16ceda0891"
+hash = "6ca956cf088d3b149f90c438dad1d2b8c4f9905f58a9fbe5262106073e220ee6"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "01175385fc41a95afdfe7c988c697be564bd94aabb684b764b411c700bee81dc"
+hash = "d2fbaf45c8aed07525a3d592a02242db2c2a9a76cf6c995585835282e87d24f5"
 metafile = true
 
 [[files]]
@@ -285,12 +285,12 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.toml"
-hash = "328ab993a9721cd5a0a87b3aedaf45ad8fb86210b42daa5f04a544fcf1f52604"
+hash = "25785a86466d4b51296dc71da2110bcd8972b6cdc47069f0ed3c4e8f72512d08"
 metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "69d17da8431a798a73f8e238e9114ff96089449706a699c1f69e4561bbc0055c"
+hash = "fab378c0172e0251334a08f0c6013b087847d3c6aa3eadc40de2e77b33fbec5e"
 metafile = true
 
 [[files]]
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.toml"
-hash = "d1b796d25ba43d6b37218dcfdd5a88aaaead81028fe51dd40b9e4f1a9b731ecc"
+hash = "f8b55cf573545a31ba3fcd99b8005513aa00c34e73a53493ed55c3e5be547db0"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "2c70ac84c0b9feb5c5d42543be5612770da38debac874f48cebb5e0433afba89"
+hash = "439297a26554e1723ca14ff0142e18a12180700578c270e23501e4b1083dc2f4"
 metafile = true
 
 [[files]]
@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.toml"
-hash = "211beaf63d3e68db103fd36807c17df58755141e786d7240a968a6c8b796ebca"
+hash = "cfc911e385551cd44cdf5aec60d677d7d5078b86c6c9e193895a512ae88b0dc5"
 metafile = true
 
 [[files]]
