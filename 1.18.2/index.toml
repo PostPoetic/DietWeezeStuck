@@ -149,6 +149,11 @@ file = "config/yosbr/options.txt"
 hash = "08011c65b1da060a39d5b60c72bf83c18dd1ca191749e3790b6b978880b019cb"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "c007e2562bd557760bf5ac0dfb773cec6c3b601a450e24fbe7f3bc2c23982fb6"
+metafile = true
+
+[[files]]
 file = "mods/advancementinfo.toml"
 hash = "2a7fd6600075e0b6e5ee90e289f031f5822aa0c859e3b3fa1ed8c8a99ad51e80"
 metafile = true
@@ -176,11 +181,6 @@ metafile = true
 [[files]]
 file = "mods/better-mount-hud.toml"
 hash = "85f3ba11c05d688f772f04f226eb010bc4d667b7da987182e15aca89a578f3c9"
-metafile = true
-
-[[files]]
-file = "mods/biome-particle-weather.toml"
-hash = "38e29d024cede3e91e16440711f12dd109875f406d1644434ab9a4209de0eab0"
 metafile = true
 
 [[files]]
@@ -416,11 +416,6 @@ metafile = true
 [[files]]
 file = "mods/sit-fabric.toml"
 hash = "21c7b5909bc1625d40814162c32bd3bd424c15b6f31c3d3983b26d4621c49fbf"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.toml"
-hash = "15350b769fc12838c269fb9abe09a27cfbe41a90dcbdce18b55d8bc51236108b"
 metafile = true
 
 [[files]]
