@@ -415,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/sit-fabric.toml"
-hash = "bcbbff9ea0ea16f509f0be12dd23138bf36e83a2f9b661b5d089bd639bde315d"
+hash = "21c7b5909bc1625d40814162c32bd3bd424c15b6f31c3d3983b26d4621c49fbf"
 metafile = true
 
 [[files]]
