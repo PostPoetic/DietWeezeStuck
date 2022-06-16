@@ -249,11 +249,6 @@ hash = "13013b1ab312945c0d4c1b008f0deb9193c010a161e161cc59642c185889abc6"
 metafile = true
 
 [[files]]
-file = "mods/effective.pw.toml"
-hash = "f42b5d6e1351cd35715f392e2bd3db2914299297209ca4c5193143ddec836608"
-metafile = true
-
-[[files]]
 file = "mods/enhanced-block-entities.toml"
 hash = "5f96cbfa5842b2fa1977bed45bff4b2230a1608f34394ca75945fa65d8e555da"
 metafile = true
@@ -291,11 +286,6 @@ metafile = true
 [[files]]
 file = "mods/ferritecore-fabric.toml"
 hash = "25785a86466d4b51296dc71da2110bcd8972b6cdc47069f0ed3c4e8f72512d08"
-metafile = true
-
-[[files]]
-file = "mods/illuminations.pw.toml"
-hash = "731c239ff8fb415c00c76856453aea3ad7a3082d78837daedbbf98c37279ce67"
 metafile = true
 
 [[files]]
