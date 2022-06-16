@@ -1,18 +1,18 @@
 name = "Biome Particle Weather"
-filename = "BIomeWeatherEffect-2.4.6.jar"
+filename = "BiomeWeatherEffects-2.4.8.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3747/36/BIomeWeatherEffect-2.4.6.jar"
 hash-format = "sha1"
-hash = "a1229ca7865f7e9d00647611a6f5a961222dac4f"
+hash = "c59ce6b2b5306ffaf909cf0f0f1ec7cf458db0a8"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3747036
+file-id = 3818701
 project-id = 575109
 
 [option]
 optional = true
-default = true
 description = "Adds different particle effects depending on weather and biome, customizable. If experiencing issues with particles while using shaders enable compatibility mode in the shader options."
+default = true

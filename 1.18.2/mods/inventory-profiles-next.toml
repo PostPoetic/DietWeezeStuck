@@ -1,19 +1,18 @@
 name = "Inventory Profiles Next"
-filename = "InventoryProfilesNext-fabric-1.18.2-1.3.5.jar"
+filename = "InventoryProfilesNext-fabric-1.18.2-1.5.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3679/959/InventoryProfilesNext-fabric-1.18.2-1.3.5.jar"
 hash-format = "sha1"
-hash = "cbeb84d1b80812d7cbdfa283490bfc1f4549069a"
+hash = "fec5c51619f4e67c6bff5ce6b0b389bc8b369b64"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3679959
+file-id = 3833892
 project-id = 495267
-
 
 [option]
 optional = true
-default = true
 description = "Gives the option of 'locking' certain inventory slots to prevent important items from being accidentally dropped, can replace equipment that is about to break, sort your inventory and much more. Highly customizable."
+default = true
