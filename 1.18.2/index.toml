@@ -90,7 +90,7 @@ hash = "a020e7eae610eab35e9ce42bfb1e193a4b74d1d7d237ec32bbbb8227bf67e0f5"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "f5cf9edcc1c12a80298b0addcdd044acc2a758e4758ebd4aed50f4b0516e5eb1"
+hash = "5bea8ef19a774952a1458f28e39f53cf8a3c3f158762d139910642052c6d0f69"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"

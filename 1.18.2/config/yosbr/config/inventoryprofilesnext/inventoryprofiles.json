@@ -1,5 +1,7 @@
 {
     "ModSettings": {
+        "highlight_foused_items": false,
+        "highlight_foused_items_foreground": false,
         "sort_at_cursor": true,
         "first_run": false
     },
