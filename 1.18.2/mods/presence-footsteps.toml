@@ -1,19 +1,18 @@
 name = "Presence Footsteps [Fabric]"
-filename = "PresenceFootsteps-1.5.0.jar"
+filename = "PresenceFootsteps-1.5.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3671/978/PresenceFootsteps-1.5.0.jar"
 hash-format = "sha1"
-hash = "fc13b79c51f1afa9cdc455d3c74d52bae1e02cf1"
+hash = "cb2d3e9ec90597df161f90fb5c12bce47f99fce5"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3671978
+file-id = 3851656
 project-id = 334259
-
 
 [option]
 optional = true
-default = true
 description = "Adds different sound effects for footsteps depending on the surface walked on. Has different options for volume and amount of legs."
+default = true
